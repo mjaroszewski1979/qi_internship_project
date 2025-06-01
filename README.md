@@ -6,3 +6,14 @@ Each team member was responsible for a specific part of the application—typica
 
 The goal of the project was to build a reliable suite of automated tests that could help maintain the quality of the application as it moved closer to production.
 
+## Features
+
+* Implementation of the Page Object Model (POM) design pattern to ensure clean, modular, and maintainable code architecture, following industry best practices in QA automation.
+* Use of Page Factory to enhance test scalability and optimize execution performance, especially when running a large number of tests frequently.
+* Integration with Git version control, enabling smooth, simultaneous collaboration across team members and streamlined code management.
+* Application of test annotations to provide concise descriptions for each test method and to define execution priorities where needed.
+* Centralization of global configuration data (e.g., base URL, login credentials, browser version) in a dedicated configuration file for easy management and reusability.
+* Reduction of code redundancy through a custom TestBase class, which encapsulates shared logic and is extended by lower-level test classes.
+* Structured organization of test files within the /pages directory, with subdirectories grouped by specific UI modules of the application for better clarity and modularity.
+* Consistent layout within test classes, separating configuration settings, locators, reusable variables, and test operations into well-defined sections.
+
