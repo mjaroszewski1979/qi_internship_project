@@ -8,7 +8,7 @@ The goal of the project was to build a reliable suite of automated tests that co
 
 ## Features
 
-* Implementation of the Page Object Model (POM) design pattern to ensure clean, modular, and maintainable code architecture, following industry best practices in QA automation.
+* Implementation of the *Page Object Model* (POM) design pattern to ensure clean, modular, and maintainable code architecture, following industry best practices in QA automation.
 * Use of Page Factory to enhance test scalability and optimize execution performance, especially when running a large number of tests frequently.
 * Integration with Git version control, enabling smooth, simultaneous collaboration across team members and streamlined code management.
 * Application of test annotations to provide concise descriptions for each test method and to define execution priorities where needed.
@@ -66,11 +66,11 @@ The goal of the project was to build a reliable suite of automated tests that co
 ## Technologies Used
 
 * _Java_ – Programming language used to write and structure the automated tests
-* Selenium WebDriver – Tool for automating interactions with web browsers
-* Maven – Build and dependency management tool for project configuration and library integration
-* TestNG – Testing framework for structuring, prioritizing, and managing test execution
-* Allure – Tool for generating detailed and visually rich test reports
-* IntelliJ IDEA – Integrated Development Environment (IDE) used for writing and debugging code
-* Git / GitHub – Version control system for collaborative development and code management
+* _Selenium WebDriver_ – Tool for automating interactions with web browsers
+* _Maven_ – Build and dependency management tool for project configuration and library integration
+* _TestNG_ – Testing framework for structuring, prioritizing, and managing test execution
+* _Allure_ – Tool for generating detailed and visually rich test reports
+* _IntelliJ IDEA_ – Integrated Development Environment (IDE) used for writing and debugging code
+* _Git / GitHub_ – Version control system for collaborative development and code management
 
 
