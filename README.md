@@ -73,4 +73,12 @@ The goal of the project was to build a reliable suite of automated tests that co
 * _IntelliJ IDEA_ – Integrated Development Environment (IDE) used for writing and debugging code
 * _Git / GitHub_ – Version control system for collaborative development and code management
 
+## Important Information
+
+#### The primary purpose of this repository is to showcase my individual contribution to the development of automated tests for a pre-production e-commerce web application, as part of an internship program at Quality Island.
+In consideration of the client’s best interests (i.e., the owner of the tested application), all sensitive data has been anonymized. As a result, anyone attempting to run the full test suite may encounter issues due to:
+* The absence of a valid application URL
+* Replaced or fictitious login credentials
+Despite these limitations, the code provided retains educational value and offers a clear example of the organizational structure and standards typically adopted in real-world QA automation projects carried out by professional IT/QA teams.
+
 
