@@ -21,10 +21,10 @@ The goal of the project was to build a reliable suite of automated tests that co
 
 #### Took full ownership of the "Settings" module within the e-commerce web application, which allows users to sell courses, digital products, and services. Created automated regression tests to verify:
 
-* Page title correctness
-* URL accuracy
-* Visibility and clickability of key UI elements
-* Relevant test files:
+1. Page title correctness
+2. URL accuracy
+3. Visibility and clickability of key UI elements
+4. Relevant test files:
 * [Settings Pages](https://github.com/mjaroszewski1979/qi_internship_project/tree/main/src/test/java/pages/ustawienia)
 * [Settings Tests](https://github.com/mjaroszewski1979/qi_internship_project/tree/main/src/test/java/tests/ustawienia)
 
