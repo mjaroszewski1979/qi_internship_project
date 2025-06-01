@@ -38,9 +38,9 @@ The goal of the project was to build a reliable suite of automated tests that co
 * Enabling the "Show in catalog" option
 * Verifying that the generated purchase link correctly leads to a screen with the "ORDER AND PAY" button
 * Relevant test files:
-* ProduktyCyfroweMJPage.java
-* EdycjaProduktyCyfrowePage.java
-* ProduktyCyfroweMJPageTest.java
+   * [ProduktyCyfroweMJPage.java](https://github.com/mjaroszewski1979/qi_internship_project/blob/main/src/test/java/pages/produktyCyfrowe/ProduktyCyfroweMJPage.java)
+   * [EdycjaProduktyCyfrowePage.java](https://github.com/mjaroszewski1979/qi_internship_project/blob/main/src/test/java/pages/produktyCyfrowe/EdycjaProduktyCyfrowePage.java)
+   * [ProduktyCyfroweMJPageTest.java](https://github.com/mjaroszewski1979/qi_internship_project/blob/main/src/test/java/tests/produktyCyfroweTests/ProduktyCyfroweMJPageTest.java)
 
 2. Upload and validate a video file in the Media module
 * Tested the flow for:
@@ -59,7 +59,7 @@ The goal of the project was to build a reliable suite of automated tests that co
 * Verifying that the strength is marked as "Strong"
 * Confirming the update with the appearance of a success message
 * Relevant test files:
-* EdytujUzytkownikaPage.java
-* UtworzUzytkownikaPage.java
-* EdytujUzytkownikaPageTest.java
+   * [EdytujUzytkownikaPage.java](https://github.com/mjaroszewski1979/qi_internship_project/blob/main/src/test/java/pages/uzytkownicy/EdytujUzytkownikaPage.java)
+   * [UtworzUzytkownikaPage.java](https://github.com/mjaroszewski1979/qi_internship_project/blob/main/src/test/java/pages/uzytkownicy/UtworzUzytkownikaPage.java)
+   * [EdytujUzytkownikaPageTest.java](https://github.com/mjaroszewski1979/qi_internship_project/blob/main/src/test/java/tests/uzytkownicyTests/EdytujUzytkownikaPageTest.java)
 
