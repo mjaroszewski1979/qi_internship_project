@@ -63,3 +63,14 @@ The goal of the project was to build a reliable suite of automated tests that co
    * [UtworzUzytkownikaPage.java](https://github.com/mjaroszewski1979/qi_internship_project/blob/main/src/test/java/pages/uzytkownicy/UtworzUzytkownikaPage.java)
    * [EdytujUzytkownikaPageTest.java](https://github.com/mjaroszewski1979/qi_internship_project/blob/main/src/test/java/tests/uzytkownicyTests/EdytujUzytkownikaPageTest.java)
 
+## Technologies Used
+
+* _Java_ – Programming language used to write and structure the automated tests
+* Selenium WebDriver – Tool for automating interactions with web browsers
+* Maven – Build and dependency management tool for project configuration and library integration
+* TestNG – Testing framework for structuring, prioritizing, and managing test execution
+* Allure – Tool for generating detailed and visually rich test reports
+* IntelliJ IDEA – Integrated Development Environment (IDE) used for writing and debugging code
+* Git / GitHub – Version control system for collaborative development and code management
+
+
