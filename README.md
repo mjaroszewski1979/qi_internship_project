@@ -1,4 +1,4 @@
-# Overview
+## Overview
 
 #### This repository contains an automated testing project developed using Java and Selenium for an e-commerce web application currently in its pre-production phase. The project was created as part of a QA internship program for the company Quality Island and was collaboratively built by a team of 10 testing interns.
 
@@ -16,4 +16,50 @@ The goal of the project was to build a reliable suite of automated tests that co
 * Reduction of code redundancy through a custom TestBase class, which encapsulates shared logic and is extended by lower-level test classes.
 * Structured organization of test files within the /pages directory, with subdirectories grouped by specific UI modules of the application for better clarity and modularity.
 * Consistent layout within test classes, separating configuration settings, locators, reusable variables, and test operations into well-defined sections.
+
+## My Contribution
+
+#### Took full ownership of the "Settings" module within the e-commerce web application, which allows users to sell courses, digital products, and services. Created automated regression tests to verify:
+
+* Page title correctness
+* URL accuracy
+* Visibility and clickability of key UI elements
+* Relevant test files:
+* Settings Pages
+* Settings Tests
+
+#### Developed end-to-end (E2E) automated tests based on client-provided business requirements. Selected examples include:
+
+Create a digital product with promotional pricing and validate the checkout link
+* Implemented test logic for:
+* Creating a digital product priced at 999 PLN
+* Setting a promotional price of 499 PLN valid from 12.06.2025 to 24.06.2025
+* Assigning a random quantity (1–100)
+* Enabling the "Show in catalog" option
+* Verifying that the generated purchase link correctly leads to a screen with the "ORDER AND PAY" button
+* Relevant test files:
+* ProduktyCyfroweMJPage.java
+* EdycjaProduktyCyfrowePage.java
+* ProduktyCyfroweMJPageTest.java
+
+Upload and validate a video file in the Media module
+* Tested the flow for:
+* Navigating to the "Media" > "Video" section
+* Uploading a sample video file
+* Verifying that the video appears in the video list
+* Relevant test files:
+* DodajWideoPage.java
+* WideoPage.java
+* WideoPageTest.java
+
+Change a user's password and validate confirmation
+* Developed test scenarios for:
+* Creating or selecting an existing test user
+* Changing the password (minimum 15 characters, including letters and digits)
+* Verifying that the strength is marked as "Strong"
+* Confirming the update with the appearance of a success message
+* Relevant test files:
+* EdytujUzytkownikaPage.java
+* UtworzUzytkownikaPage.java
+* EdytujUzytkownikaPageTest.java
 
