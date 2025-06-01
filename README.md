@@ -1,3 +1,5 @@
+![caption](https://github.com/mjaroszewski1979/qi_internship_project/blob/main/qi_internship_img.jpg)
+
 # Web Application Test Automation – Quality Island Internship
 
 #### This repository contains an automated testing project developed using Java and Selenium for an e-commerce web application currently in its pre-production phase. The project was created as part of a QA internship program for the company Quality Island and was collaboratively built by a team of 10 testing interns.
