@@ -30,7 +30,7 @@ The goal of the project was to build a reliable suite of automated tests that co
 
 #### Developed end-to-end (E2E) automated tests based on client-provided business requirements. Selected examples include:
 
-Create a digital product with promotional pricing and validate the checkout link
+1. Create a digital product with promotional pricing and validate the checkout link
 * Implemented test logic for:
 * Creating a digital product priced at 999 PLN
 * Setting a promotional price of 499 PLN valid from 12.06.2025 to 24.06.2025
@@ -42,17 +42,17 @@ Create a digital product with promotional pricing and validate the checkout link
 * EdycjaProduktyCyfrowePage.java
 * ProduktyCyfroweMJPageTest.java
 
-Upload and validate a video file in the Media module
+2. Upload and validate a video file in the Media module
 * Tested the flow for:
 * Navigating to the "Media" > "Video" section
 * Uploading a sample video file
 * Verifying that the video appears in the video list
 * Relevant test files:
-* DodajWideoPage.java
-* WideoPage.java
-* WideoPageTest.java
+   * [DodajWideoPage.java](https://github.com/mjaroszewski1979/qi_internship_project/blob/main/src/test/java/pages/media/DodajWideoPage.java)
+   * [WideoPage.java](https://github.com/mjaroszewski1979/qi_internship_project/blob/main/src/test/java/pages/media/WideoPage.java)
+   * [WideoPageTest.java](https://github.com/mjaroszewski1979/qi_internship_project/blob/main/src/test/java/tests/mediaTests/WideoPageTest.java)
 
-Change a user's password and validate confirmation
+3. Change a user's password and validate confirmation
 * Developed test scenarios for:
 * Creating or selecting an existing test user
 * Changing the password (minimum 15 characters, including letters and digits)
