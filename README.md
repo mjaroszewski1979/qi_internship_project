@@ -1,3 +1,5 @@
+# Web Application Test Automation – Quality Island Internship
+
 ## Overview
 
 #### This repository contains an automated testing project developed using Java and Selenium for an e-commerce web application currently in its pre-production phase. The project was created as part of a QA internship program for the company Quality Island and was collaboratively built by a team of 10 testing interns.
@@ -83,4 +85,7 @@ In consideration of the client’s best interests (i.e., the owner of the tested
   
 Despite these limitations, the code provided retains educational value and offers a clear example of the organizational structure and standards typically adopted in real-world QA automation projects carried out by professional IT/QA teams.
 
+## Contact
+
+For questions or feedback, please contact [mjaroszewski1979.](https://github.com/mjaroszewski1979)
 
